@@ -11,6 +11,6 @@ double mul(int op1, int op2) {
 }
 
 double div(int op1, int op2) {
-	return (double)op1%(double)op2;
+	return (double)op1/(double)op2;
 }
 
